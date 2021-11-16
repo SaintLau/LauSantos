@@ -22,5 +22,5 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaintLau)](https://github.com/SaintLau/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaintLau&layout=compact)](https://github.com/SaintLau/github-readme-stats)
 
