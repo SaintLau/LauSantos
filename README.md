@@ -19,3 +19,8 @@
 ---
 
 <img align="left" alt="SaintLau's Github Stath" src="https://github-readme-stats.vercel.app/api?username=SaintLau&show_icons=true&hide_border=true&theme=tokyonight" />
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaintLau)](https://github.com/SaintLau/github-readme-stats)
+
