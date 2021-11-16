@@ -22,7 +22,7 @@
 
 
 <a href="https://github.com/SaintLau/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintLau&layout=compact&theme=tokyonight" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintLau&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
 
