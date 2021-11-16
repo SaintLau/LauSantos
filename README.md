@@ -18,7 +18,7 @@
 
 ---
 
-<img align="left" alt="SaintLau's Github Stath" src="https://github-readme-stats.vercel.app/api?username=SaintLau&show_icons=true&hide_border=true&theme=synthwave" />
+<img align="left" alt="SaintLau's Github Stath" src="https://github-readme-stats.vercel.app/api?username=SaintLau&show_icons=true&hide_border=true&theme=nightowl" />
 
 ---
 
