@@ -14,3 +14,8 @@
 <i>**Network:**</i><br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-santos16/)](https://www.linkedin.com/in/laura-santos16/)
+
+
+---
+
+<img align="left" alt="SaintLau's Github Stath" src="https://github-readme-stats.vercel.app/api?username=SaintLau&show_icons=true&hide_border=true" />
