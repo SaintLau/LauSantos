@@ -3,7 +3,7 @@
 <h3 align="center">A web developer from Portugal</h3>
 <br>
 
-- I am currently searching for my first job as a Junior Full Stack Developer 👓
+- I am currently doing amazing things as a Junior Software Engineer at FH 👓
 
 - You can find the projects I've been working on here at GitHub and also at: [My Portfolio](https://lauraportfolio.netlify.app/)
 
